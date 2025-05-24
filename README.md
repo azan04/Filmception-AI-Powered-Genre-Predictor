@@ -54,8 +54,8 @@ This project uses the [CMU Movie Summary Dataset](https://www.kaggle.com/dataset
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/deviant101/filmception.git
-   cd filmception
+   git clone https://github.com/azan04/Filmception-AI-Powered-Genre-Predictor.git
+   cd Filmception-AI-Powered-Genre-Predictor
    ```
 
 2. Install required dependencies:
@@ -114,7 +114,7 @@ The genre prediction model uses:
 ## 📁 Project Structure
 
 ```
-filmception/
+Filmception-AI-Powered-Genre-Predictor/
 ├── audio_files/              # Generated audio files
 ├── models/                   # Trained machine learning models
 ├── MovieSummaries/           # Dataset directory
